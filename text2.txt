@@ -1,0 +1,5 @@
+Eclipse makes it easier to write and manage code.
+GitHub is a platform for sharing and storing code projects.
+Each commit should have a clear message.
+Pulling updates helps keep my project in sync with others.
+Practice and consistency will help me become a better developer.
