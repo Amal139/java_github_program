@@ -1,0 +1,5 @@
+Eclipse shows my project structure in an organized way.
+I can track my code changes using the Git perspective.
+Pushing my code uploads it to GitHub.
+Pulling gets the latest changes from the remote repository.
+Regular commits make it easier to manage project updates.
